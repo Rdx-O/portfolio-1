@@ -10,7 +10,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 
 ## My profile
 
-![My Profile Image](/images/RDX.png)
+![My Profile Image](/images/76568271.png)
 
 - Name : Chandu Sangar (Japanese : 高木優希)
 - Address : !
