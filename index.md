@@ -10,11 +10,11 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 
 ## My profile
 
-![My Profile Image](/images/Img200.jpg)
+![My Profile Image](/images/RDX.png)
 
-- Name : Yuuki Takagi (Japanese : 高木優希)
-- Address : [Hachoji, Tokyo, Japan](https://en.wikipedia.org/wiki/Hachioji)
-- Jobs : First year of graduate studies ([Tokyo University of Technology](https://www.teu.ac.jp/english/index.html))
+- Name : Chandu Sangar (Japanese : 高木優希)
+- Address : !
+- Jobs : L
 - Laboratory : Cloud and Distributed Systems Laboratory
   - [English website](https://www.tak-cslab.org/)
   - [Japanese website](https://ja.tak-cslab.org/)
